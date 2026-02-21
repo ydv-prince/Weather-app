@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather application of Rajkot city using API key",
+  "homepage": "https://github.com/ydv-prince/Weather-app#readme",
+  "bugs": {
+    "url": "https://github.com/ydv-prince/Weather-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydv-prince/Weather-app.git"
+  },
+  "license": "ISC",
+  "author": "prince",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "express": "^5.2.1"
+  }
+}
